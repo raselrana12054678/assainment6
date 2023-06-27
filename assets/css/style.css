@@ -1,0 +1,126 @@
+.main-top {
+    width: 70%;
+    margin: 0 auto;
+}
+.pactice-area {
+    background: rgb(97, 108, 169);
+    padding: 20px 0;
+    text-align: center;
+}
+.pactice-area sub {
+    font-size: 20px; 
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'tahoma';
+    color: #ddd;
+}
+.pactice-area sup {
+    color: red;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.pactice-area sup:last-child {
+    color: rgb(11, 239, 251);
+}
+
+/* pragraph */
+.pragraph {
+    font-style: italic;
+    background-color: aqua;
+    padding: 5px 0;
+    font-size: 18px;
+    text-align: center;
+}
+
+/* banner-image  */
+.banner-image img {
+    width: 100%;
+    margin-bottom: 0;
+}
+.about {
+    background: maroon;
+    margin-top: -4px;
+}
+.about h3 {
+    font-style: italic;
+    padding: 10px 0;
+    text-align: center;
+    color: #333;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'tahoma';
+    text-transform: capitalize;
+    margin-top: 0;
+
+}
+.pragrap-items {
+    background-color: #ddd;
+    padding: 30px 15px;
+    margin-top: -20px;
+}
+.pragrap-items p {
+    color: #333;
+    text-align: center;
+    margin-top: 0;
+    font-style: italic;
+}
+.our-service {
+    text-align: center;
+    padding: 5px 0;
+    background: green;
+}
+.icon-box {
+    display: flex;
+    text-align: center;
+    padding: 70px 0;
+    background: #ddd;
+}
+.icon-items p {
+    padding: 0 20px;
+}
+
+/* .contact-us */
+.contact-us {
+    margin-top: 0;
+    padding-bottom: 70px;
+    background: #ddd;
+}
+.contact-us input{
+    width: 50%;
+    justify-content: center;
+    margin: 0 auto;
+    display: block;
+    padding: 10px 5px;
+    margin-bottom: 10px;
+}
+.title {
+    margin-top: -30px;
+}
+.title h1 {
+    text-align: center;
+    background: rgb(17, 9, 162);
+    padding: 30px 0;
+    color: #fff;
+}
+.title textarea {
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 10px;
+}
+/* template */
+.template {
+    text-align: center;
+    padding: 40px 0;
+    background: rgb(7, 214, 211);
+}
+
+/* .footer */
+.footer {
+    text-align: center;
+    background: rgb(219, 11, 198);
+    padding: 10px 0;
+    color: #fff;
+    font-size: 15px;
+    font-style: italic;
+}
